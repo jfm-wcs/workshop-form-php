@@ -1,0 +1,8 @@
+.btn {
+    padding: var(--spacing) calc(var(--spacing) * 2);
+    border: none;
+    color: white;
+    background-color: var(--main-bg-color);
+    font-size: 1.5rem;
+    cursor: pointer;
+}
